@@ -1,13 +1,14 @@
 <h1>Projeto de Desenvolvimento Web - Site PetAdota - Backend</h1>
 
+<h2>Alunos: Amanda Pereira e Isac Ramalho Sena de Lima</h2>
+
 <p align="center">
   <a href="#pre-requisites">Pré-requisitos</a> •
   <a href="#how-to-use">Instalando o projeto</a> •
   <a href="#related">Frontend</a> •
-  <a href="#license">Licença</a>
 </p>
 
-Esta aplicação foi desenvolvida como parte dos requisitos para a aprovação na disciplina "Programação Orientada a Objetos 3", do UNICEUB. O projeto foi realizado utilizando Java Spring e Spring MVC para efetuar a criação do servidor, Spring Data JPA para persistência de dados e para manipulá-los, H2 como banco de dados e Lombok para gerar boilerplates. Foram utilizados, ainda, o Framework Springboot, React + Vite e Maven. O objetivo geral era criar uma aplicação web CRUD.
+Esta aplicação foi desenvolvida pelo grupo como parte dos requisitos para a aprovação na disciplina "Programação Orientada a Objetos 3", do UNICEUB. O projeto foi realizado utilizando Java Spring e Spring MVC para efetuar a criação do servidor, Spring Data JPA para persistência de dados e para manipulá-los, H2 como banco de dados e Lombok para gerar boilerplates. Foram utilizados, ainda, o Framework Springboot, React + Vite e Maven. O objetivo geral era criar uma aplicação web CRUD.
 
 <h2 id="pre-requisites">💻 Requisitos</h2> 
 
@@ -27,30 +28,16 @@ $ cd crud-java-back
 
 Depois, no IntelliJ, é necessário instalar as depedências com o Maven
 
-<img width="300px" src="./.github/instalar-deps.png">
+<img width="300px" src="./.github/instalarmaven.png">
 
 Por último, execute o projeto no arquivo da classe `CardapioApllication`.
 
-<img width="300px" src="./.github/executar.png">
+<img width="300px" src="./.github/execucao-back.png">
 
 <h2 id="related">🫂 Integração com Frontend</h2>
 
-Para realizar a integração com o Frontend, você pode clonar o projeto e rodar localmente, ou desenvolver você mesmo seguindo o tutorial no Youtube.
+Para realizar a integração com o Frontend, é preciso clonar o projeto e rodar localmente.
 
-👉 [Desenvolvendo o Frontend desse Cardápio Digital com React e Typescript](https://www.youtube.com/watch?v=WHruc3_2z68)
+<h2 id="related">🫂 Referências/Agradecimentos</h2>
 
-👉 [Link do repositório](https://github.com/Fernanda-Kipper/frontend-cardapio-digital)
-
-
-<h2 id="related">📝 Licença</h2>
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
-
-
-## 📱 Minhas Redes
-
-Meu site: [fernandakipper.com](https://www.fernandakipper.com) &nbsp;&middot;&nbsp; 
-
-Instagram: [@kipper.dev](https://github.com/kipper.devb) &nbsp;&middot;&nbsp;
-
-YouTube [@kipperdev](https://www.youtube.com/@kipperdev) &nbsp;&middot;&nbsp;
+Gostaríamos de destacar que foram de grande ajuda a WebConferência do professor Romes Heriberto e o canal da Fernanda Kipper (https://www.youtube.com/@kipperdev).
