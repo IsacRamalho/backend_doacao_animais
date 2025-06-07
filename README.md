@@ -10,7 +10,7 @@
 
 Esta aplicação foi desenvolvida pelo grupo como parte dos requisitos para a aprovação na disciplina "Programação Orientada a Objetos 3", do UNICEUB. O projeto foi realizado utilizando Java Spring e Spring MVC para efetuar a criação do servidor, Spring Data JPA para persistência de dados e para manipulá-los, H2 como banco de dados e Lombok para gerar boilerplates. Foram utilizados, ainda, o Framework Springboot, React + Vite e Maven. O objetivo geral era criar uma aplicação web CRUD.
 
-<h2 id="pre-requisites"> Requisitos</h2> 
+<h2 id="pre-requisites"> Pré-Requisitos</h2> 
 
 Para rodar este projeto, é necessário ter o Java instalado.
 
