@@ -40,4 +40,4 @@ Para realizar a integração com o Frontend, é preciso clonar o projeto e rodar
 
 <h2 id="related"> Referências/Agradecimentos</h2>
 
-Gostaríamos de destacar que foram de grande ajuda a WebConferência do professor Romes Heriberto e o canal da Fernanda Kipper (https://www.youtube.com/@kipperdev).
+Gostaríamos de destacar que foram de grande ajuda a WebConferência do professor Romes Heriberto, o canal da Fernanda Kipper (https://www.youtube.com/@kipperdev) e o canal do Rony Desenvolvedor (https://www.youtube.com/@ronydesenvolvedor), que contribuíram bastante no entendimento das práticas relacionadas à SpringBoot, React e outras tecnologias utilizadas.
