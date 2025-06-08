@@ -30,7 +30,7 @@ Depois, no IntelliJ, é necessário instalar as depedências com o Maven
 
 <img width="300px" src="./.github/instalarmaven.png">
 
-Por último, execute o projeto no arquivo da classe `CardapioApllication`.
+Por último, execute o projeto no arquivo da classe `DoacaoAnimaisApllication`.
 
 <img width="300px" src="./.github/execucao-back.png">
 
